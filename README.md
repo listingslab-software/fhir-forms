@@ -1,2 +1,5 @@
-# fhir-forms
-First version of a generic, robust form building technology in React. Designed for FHIR
+# FHIR Forms
+
+Generic, robust form building in React. Designed for the healthcare [FHIR](http://hl7.org/fhir/) standard.
+
+
